@@ -1,4 +1,5 @@
 ### Oi meu nome é Erick e eu sou aspirante a game dev! 🎮👨🏼‍💻
+### Hi my name is Erick and I am an aspiring game dev! 🎮👨🏼‍💻
 
 <div align="center">
   <a href="https://linktr.ee/erickhasse">
@@ -14,4 +15,14 @@
 </div>
   
   ##
- 
+  
+  ### Important Links
+<div>
+  <a href="https://drive.google.com/file/u/1/d/1ZZ7HlUe3w6VOnpRlF6iCZMfOGpFMBOPT/view?usp=sharing" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936505130159865877/curriculo_portugues.png" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1hamK5oXgCevstJmC1QhknaSmgXDNzTAt/view?usp=sharing" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936505670583320576/curriculo_ingles.png" target="_blank"></a>
+  <a href="https://erickhasse.itch.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936507833007108196/itchio.png" target="_blank"></a>
+</div>
+   
+  ##
+  
+  ### Featured Projects | Projetos em Destaque
