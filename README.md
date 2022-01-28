@@ -22,10 +22,16 @@
   <a href="https://drive.google.com/file/d/1hamK5oXgCevstJmC1QhknaSmgXDNzTAt/view?usp=sharing" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936505670583320576/curriculo_ingles.png" target="_blank"></a>
   <a href="https://erickhasse.itch.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936508977586516018/itchio.png" target="_blank"></a>
 </div>
+<div>
+  <a href="https://www.instagram.com/erickhasse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/247261012296728587" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:erickhasse99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erick-hasse-143b8a199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
    
   ##
   
   ### Featured Projects | Projetos em Destaque
   <div>
-     <a href="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936510997533950002/unknown.png" target="_blank"></a>
+     <a href="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936511696883843102/coracaodeferro.png" target="_blank"></a>
   </div>
