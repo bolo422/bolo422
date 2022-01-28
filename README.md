@@ -27,6 +27,5 @@
   
   ### Featured Projects | Projetos em Destaque
   <div>
-    src="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"></a>
-  <a href="https://erickhasse.itch.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936510997533950002/unknown.png" target="_blank"></a>
+     <a href="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936510997533950002/unknown.png" target="_blank"></a>
   </div>
