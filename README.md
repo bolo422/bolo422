@@ -7,10 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolo422&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Unity" height="100" width="177" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png">
-  <img align="center" alt="Erick-Unreal" height="100" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497725451677776/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png">
-  <img align="center" alt="Erick-Cplusplus" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Erick-Csharp" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Erick-Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png">
+  <img align="center" alt="Erick-Unreal" height="70" width="87" src="https://cdn.discordapp.com/attachments/907689420906446908/936497725451677776/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png">
+  <img align="center" alt="Erick-Cplusplus" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Erick-Csharp" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="right" alt="Erick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/907689420906446908/936493245796593694/eu3.png">
 </div>
   
@@ -18,10 +18,11 @@
   
   ### Important Links
 <div>
-  <a href="https://drive.google.com/file/u/1/d/1ZZ7HlUe3w6VOnpRlF6iCZMfOGpFMBOPT/view?usp=sharing" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936505130159865877/curriculo_portugues.png" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1hamK5oXgCevstJmC1QhknaSmgXDNzTAt/view?usp=sharing" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936505670583320576/curriculo_ingles.png" target="_blank"></a>
-  <a href="https://erickhasse.itch.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936508977586516018/itchio.png" target="_blank"></a>
+  <a href="https://drive.google.com/file/u/1/d/1ZZ7HlUe3w6VOnpRlF6iCZMfOGpFMBOPT/view?usp=sharing" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936514467645243412/curriculo_portugues.png" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1hamK5oXgCevstJmC1QhknaSmgXDNzTAt/view?usp=sharing" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936514467443929108/curriculo_ingles.png" target="_blank"></a>
+  <a href="https://erickhasse.itch.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936514467859169280/itchio.png" target="_blank"></a>
 </div>
+  
 <div>
   <a href="https://www.instagram.com/erickhasse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/247261012296728587" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
