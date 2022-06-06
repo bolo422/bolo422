@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolo422&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C# height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Unity" height="70" width="124" src="https://cdn.discordapp.com/attachments/907689420906446908/936497245979828344/Unity-Logo-White.png">
