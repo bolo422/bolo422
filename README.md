@@ -1,5 +1,5 @@
-### Oi meu nome é Erick e eu sou estagiário backend e estudante de desenvolvimento de jogos! 🎮👨🏼‍💻
-### Hi my name is Erick and I'm a backend intern and game development student 🎮👨🏼‍💻
+### Oi meu nome é Erick e eu sou desenvolvedor backend Java e estudante de desenvolvimento de jogos! 🎮👨🏼‍💻
+### Hi my name is Erick and I'm a backend Java developer and game development student 🎮👨🏼‍💻
 
 <div align="center">
   <a href="https://linktr.ee/erickhasse">
