@@ -1,17 +1,6 @@
 ### Oi meu nome é Erick e eu sou desenvolvedor backend Java e estudante de desenvolvimento de jogos! 🎮👨🏼‍💻
 ### Hi my name is Erick and I'm a backend Java developer and game development student 🎮👨🏼‍💻
 
-<iframe 
-        frameborder="0" 
-        src="https://itch.io/embed/1826052?linkback=true&amp;border_width=0&amp;bg_color=553062&amp;fg_color=f0efe9&amp;link_color=ffffff&amp;border_color=ffffff" 
-        width="550" 
-        height="165">
-  <a href="https://erickhasse.itch.io/space-survivor">
-    Space Survivor by Erick Hasse - Bolo422, J0nathan
-  </a>
-</iframe>
-
-
 <div align="center">
   <a href="https://linktr.ee/erickhasse">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolo422&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -46,5 +35,6 @@
   
   ### Featured Projects | Projetos em Destaque
   <div>
+       <a href="https://erickhasse.itch.io/space-survivor" target="_blank"><img src="https://img.itch.zone/aW1nLzEwNzI2NDk2LnBuZw==/315x250%23c/jHJlxs.png" target="_blank"></a>
      <a href="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936511696883843102/coracaodeferro.png" target="_blank"></a>
   </div>
