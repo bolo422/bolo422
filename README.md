@@ -34,8 +34,7 @@ If you want to see some of my games that I made during my Game Development degre
    
   ##
   
-  ### Featured Projects | Projetos em Destaque
+  ### Featured Project: Galaxy Drifters
   <div>
        <a href="https://erickhasse.itch.io/galaxy-drifters" target="_blank"><img src="https://img.itch.zone/aW1nLzE2ODA1NTUxLnBuZw==/original/z0MT8J.png" width="200" target="_blank"></a>
-     <a href="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"><img src="https://img.itch.zone/aW1hZ2UvMTA5OTM2NS82MzQxOTkxLnBuZw==/original/KebNBZ.png" width="200" target="_blank"></a>
   </div>
