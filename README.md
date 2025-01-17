@@ -1,5 +1,7 @@
-### Oi meu nome é Erick e eu sou desenvolvedor backend Java e estudante de desenvolvimento de jogos! 🎮👨🏼‍💻
-### Hi my name is Erick and I'm a backend Java developer and game development student 🎮👨🏼‍💻
+### Hi my name is Erick and I'm a software engineer and game development enthusiast 🎮👨🏼‍💻
+Today I focus on Java for my job and big projects. My smaller personal projects vary a lot between python, C# or any other language that interest me at the time.
+
+If you want to see some of my games that I made during my Game Development degree [here's my games portfolio](https://erickhasse.itch.io/)
 
 <div align="center">
   <a href="https://linktr.ee/erickhasse">
