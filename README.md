@@ -36,6 +36,6 @@ If you want to see some of my games that I made during my Game Development degre
   
   ### Featured Projects | Projetos em Destaque
   <div>
-       <a href="https://erickhasse.itch.io/space-survivor" target="_blank"><img src="https://img.itch.zone/aW1nLzEwNzI2NDk2LnBuZw==/315x250%23c/jHJlxs.png" width="200" target="_blank"></a>
-     <a href="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"><img src="https://cdn.discordapp.com/attachments/907689420906446908/936511696883843102/coracaodeferro.png" width="200" target="_blank"></a>
+       <a href="https://erickhasse.itch.io/galaxy-drifters" target="_blank"><img src="https://img.itch.zone/aW1nLzE2ODA1NTUxLnBuZw==/original/z0MT8J.png" width="200" target="_blank"></a>
+     <a href="https://raulmdrs.itch.io/coracao-de-ferro" target="_blank"><img src="https://img.itch.zone/aW1hZ2UvMTA5OTM2NS82MzQxOTkxLnBuZw==/original/KebNBZ.png" width="200" target="_blank"></a>
   </div>
